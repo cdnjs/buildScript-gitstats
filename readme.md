@@ -1,3 +1,3 @@
  - analytics data of [@cdnjs/buildScript](https://github.com/cdnjs/buildScript) repository
-  - From May 13 2015 to Oct 31 2016 (https://github.com/cdnjs/buildScript/commit/03642859f271a5f8f07b7d61861f109e2feddd71 to https://github.com/cdnjs/buildScript/commit/273ca494750d83af247329ab4e80d2a984bcbbe8)
+  - From May 13 2015 to Dec 31 2016 (https://github.com/cdnjs/buildScript/commit/03642859f271a5f8f07b7d61861f109e2feddd71 to https://github.com/cdnjs/buildScript/commit/559e8b534873d163f695e1b62bd4d82b1e989993)
  - using [@hoxu/gitstats](https://github.com/hoxu/gitstats) + [@yize/html-minify](https://github.com/yize/html-minify) + [optipng](http://optipng.sourceforge.net/)
